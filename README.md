@@ -5,3 +5,5 @@ There will be 4 events/courses – see the id of each event between parentheses 
 • ASP.NET Core or Node JS? (id = 2)
 • Lifecycle of React JS Components (id =3)
 • Comparing JavaScript Libraries/Frameworks (id =4)
+
+https://irina08.github.io/react_app/
